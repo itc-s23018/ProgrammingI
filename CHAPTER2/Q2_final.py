@@ -1,7 +1,7 @@
 import random
 
-alphabet = [chr(i) for i in range(97, 97 + 26)]
-my_str = "t"
+alphabet = [chr(i) for i in range(65, 65 + 26)]
+my_str = "T"
 
 while True:
     random_str = random.choice(alphabet)
