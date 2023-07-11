@@ -34,6 +34,8 @@
 - 2.12 モジュールの利用  [Q2_12_1.py](CHAPTER2/Q2_12_1.py), [Q2_11_2.py](CHAPTER2/Q2_12_2.py)
 
 - 2.13 importのいろいろな書き方  [Q2_13_1.py](CHAPTER2/Q2_13_1.py), [Q2_13_2.py](CHAPTER2/Q2_13_2.py)
+
+- 2.final 最終課題 [Q2_final.py](CHAPTER2/Q2_final.py)
 ### CHAPTER3 制御構文
 - 3.1 if文の基礎
 
