@@ -1,10 +1,10 @@
-import string
+import random
 
-my_str = "T"
+alphabet = [chr(i) for i in range(97, 97 + 26)]
+my_str = "t"
 
-for i in range(65, 91):
-    alphabet = chr(i)
-    print(alphabet)
-
-    if alphabet == my_str:
+while True:
+    random_str = random.choice(alphabet)
+    print(random_str)
+    if random_str == my_str:
         break
