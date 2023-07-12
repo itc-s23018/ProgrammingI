@@ -41,17 +41,19 @@
 
 - 3.2 if文の応用 [Q3_2_1.py](CHAPTER3/Q3_2_1.py), [Q3_2_2.py](CHAPTER3/Q3_2_2.py)
 
-- 3.3 for文の基礎
+- 3.3 for文の基礎 [Q3_3_1.py](CHAPTER3/Q3_3_1.py), [Q3_3_2.py](CHAPTER3/Q3_3_2.py)
 
-- 3.4 for文の応用
+- 3.4 for文の応用 [Q3_4_1.py](CHAPTER3/Q3_4_1.py), [Q3_4_2.py](CHAPTER3/Q3_4_2.py)
 
-- 3.5 while文の基礎
 
-- 3.6 whileを使ったプログラミング
+- 3.5 while文の基礎 Q3_5_1.py](CHAPTER3/Q3_5_1.py), [Q3_5_2.py](CHAPTER3/Q3_5_2.py)
 
-- 3.7 ファイルの操作
+- 3.6 whileを使ったプログラミング [Q3_6_1.py](CHAPTER3/Q3_6_1.py), [Q3_6_2.py](CHAPTER3/Q3_6_2.py)
 
-- 3.8 バイナリファイルの扱い
+- 3.7 ファイルの操作 [Q3_7_1.py](CHAPTER3/Q3_7_1.py), [Q3_7_2.py](CHAPTER3/Q3_7_2.py)
+
+
+- 3.8 バイナリファイルの扱い [Q3_8_1.py](CHAPTER3/Q3_8_1.py), [Q3_8_2.py](CHAPTER3/Q3_8_2.py)
 ### CHAPTER4 関数
 - 4.1 関数の書き方
 
