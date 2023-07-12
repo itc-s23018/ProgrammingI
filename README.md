@@ -37,7 +37,7 @@
 
 - 2.final 最終課題 [Q2_final.py](CHAPTER2/Q2_final.py)
 ### CHAPTER3 制御構文
-- 3.1 if文の基礎 [Q3_1_1.py](CHAPTER3/Q3_1_.py), [Q3_1_2.py](CHAPTER3/Q3_1_2.py)
+- 3.1 if文の基礎 [Q3_1_1.py](CHAPTER3/Q3_1_1.py), [Q3_1_2.py](CHAPTER3/Q3_1_2.py)
 
 - 3.2 if文の応用 [Q3_2_1.py](CHAPTER3/Q3_2_1.py), [Q3_2_2.py](CHAPTER3/Q3_2_2.py)
 
