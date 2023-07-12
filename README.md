@@ -46,7 +46,7 @@
 - 3.4 for文の応用 [Q3_4_1.py](CHAPTER3/Q3_4_1.py), [Q3_4_2.py](CHAPTER3/Q3_4_2.py)
 
 
-- 3.5 while文の基礎 Q3_5_1.py](CHAPTER3/Q3_5_1.py), [Q3_5_2.py](CHAPTER3/Q3_5_2.py)
+- 3.5 while文の基礎 [Q3_5_1.py](CHAPTER3/Q3_5_1.py), [Q3_5_2.py](CHAPTER3/Q3_5_2.py)
 
 - 3.6 whileを使ったプログラミング [Q3_6_1.py](CHAPTER3/Q3_6_1.py), [Q3_6_2.py](CHAPTER3/Q3_6_2.py)
 
