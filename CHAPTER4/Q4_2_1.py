@@ -18,3 +18,7 @@ def numbers_to_weeks(num=0):
         return "来週"
     else:
         return "先週"
+
+
+s = numbers_to_weeks(-1)
+print(s)

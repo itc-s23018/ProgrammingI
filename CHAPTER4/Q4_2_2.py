@@ -5,3 +5,7 @@ def perrin(m=100):
         perrin_list.append(a)
         a, b, c = b, c, a + b
     return perrin_list
+
+
+s = perrin(40)
+print(s)
