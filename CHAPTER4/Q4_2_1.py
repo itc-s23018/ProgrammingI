@@ -14,7 +14,7 @@ def numbers_to_weeks(num=0):
         return weeks[5]
     elif num == 6 or num == -1:
         return weeks[6]
-    elif num > 7:
+    elif num < 7:
         return "来週"
     else:
         return "先週"
