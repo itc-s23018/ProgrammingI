@@ -17,6 +17,9 @@ def check_box():
     print("vote_box:", vote_box)
 
 
+# test
+
+
 print(vote())
 print(check_box())
 print(vote())

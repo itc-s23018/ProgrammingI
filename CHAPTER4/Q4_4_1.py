@@ -18,6 +18,9 @@ def check_box():
     print("票の数は{}です".format(vote_num))
 
 
+# test
+
+
 print(vote())
 print(check_box())
 print(vote())
