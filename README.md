@@ -67,7 +67,7 @@
 
 - 4.6 ラムダ式 [Q4_6_1.py](CHAPTER4/Q4_6_1.py), [Q4_6_2.py](CHAPTER4/Q4_6_2.py)
 
-- 4.7 関数の中の関数 [Q4_7_1.py](CHAPTER4/Q4_7_1.py), [Q4_7_2.py](CHAPTER4/Q4-7_2.py)
+- 4.7 関数の中の関数 [Q4_7_1.py](CHAPTER4/Q4_7_1.py)
 
 - 4.8 デコレータ [Q4_8_1.py](CHAPTER4/Q4_8_1.py), [Q4_8_2.py](CHAPTER4/Q4_8_2.py)
 
