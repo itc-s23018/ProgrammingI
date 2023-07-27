@@ -69,9 +69,12 @@
 
 - 4.7 関数の中の関数 [Q4_7_1.py](CHAPTER4/Q4_7_1.py)
 
+- 特別課題　９✕９の表を出力 [original.py](CHAPTER4/original.py)
+
 - 4.8 デコレータ [Q4_8_1.py](CHAPTER4/Q4_8_1.py), [Q4_8_2.py](CHAPTER4/Q4_8_2.py)
 
 - 4.9 コーディングスタイル [Q4_9_1.py](CHAPTER4/Q4_9_1.py), [Q4_9_2.py](CHAPTER4/Q4_9_2.py)
+
 ### CHAPTER5 データ構造
 - 5.1 リストのメソッド
 
