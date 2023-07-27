@@ -69,7 +69,7 @@
 
 - 4.7 関数の中の関数 [Q4_7_1.py](CHAPTER4/Q4_7_1.py)
 
-- 特別課題　９✕９の表を出力 [original.py](CHAPTER4/original.py)
+- 特別課題 ９✕９の表を出力 [9✕9.py](CHAPTER4/9✕9.py)
 
 - 4.8 デコレータ [Q4_8_1.py](CHAPTER4/Q4_8_1.py), [Q4_8_2.py](CHAPTER4/Q4_8_2.py)
 
