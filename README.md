@@ -76,7 +76,7 @@
 - 4.9 コーディングスタイル [Q4_9_1.py](CHAPTER4/Q4_9_1.py), [Q4_9_2.py](CHAPTER4/Q4_9_2.py)
 
 ### CHAPTER5 データ構造
-- 5.1 リストのメソッド [Q5_1_1.py](CHAOTER5/Q5_1_1.py)
+- 5.1 リストのメソッド [Q5_1_1.py](CHAOTER5/Q5_1_1.py), [Q5_1_2.py](CHAPTER5/Q5_1_2.py), [Q5_1_3.py](CHAPTER5/Q5_1_3.py)
 
 - 5.2 リスト内包表記
 
