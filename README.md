@@ -71,7 +71,7 @@
 
 - 特別課題 ９✕９の表を出力 [9✕9.py](CHAPTER4/9✕9.py)
 
-- 4.8 デコレータ [Q4_8_1.py](CHAPTER4/Q4_8_1.py), [Q4_8_2.py](CHAPTER4/Q4_8_2.py)
+- 4.8 デコレータ [Q4_8_1.py](CHAPTER4/Q4_8_1.py)
 
 - 4.9 コーディングスタイル [Q4_9_1.py](CHAPTER4/Q4_9_1.py), [Q4_9_2.py](CHAPTER4/Q4_9_2.py)
 
