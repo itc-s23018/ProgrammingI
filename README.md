@@ -82,7 +82,7 @@
 
 - 5.3 del を使った削除 [Q5_3_1.py](CHAPTER5/Q5_3_1.py), [Q5_3_2.py](CHAPTER5/Q5_3_2.py)
 
-- 5.4 タプル [Q5_4_1.py](CHAOTER5/Q5_4_1.py), [Q5_4_2.py](CHAPTER5/Q5_4_2.py), [Q5_4_3.py](CHAPTER5/Q5_4_3.py), [Q5_4_4.py](CHAPTER5/Q5_4_4.py)
+- 5.4 タプル [Q5_4_1.py](CHAPTER5/Q5_4_1.py), [Q5_4_2.py](CHAPTER5/Q5_4_2.py), [Q5_4_3.py](CHAPTER5/Q5_4_3.py), [Q5_4_4.py](CHAPTER5/Q5_4_4.py)
 
 - 5.5 集合（set） [Q5_5_1.py](CHAPTER5/Q5_5_1.py), [Q5_5_2.py](CHAPTER5/Q5_5_2.py)
 
