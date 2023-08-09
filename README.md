@@ -80,21 +80,21 @@
 
 - 5.2 リスト内包表記 [Q5_2_1.py](CHAPTER5/Q5_2_1.py), [Q5_2_2.py](CHAPTER5/Q5_2_2.py), [Q5_2_3.py](CHAPTER5/Q5_2_3.py)
 
-- 5.3 del を使った削除
+- 5.3 del を使った削除 [Q5_3_1.py](CHAPTER5/Q5_3_1.py), [Q5_3_2.py](CHAPTER5/Q5_3_2.py)
 
-- 5.4 タプル
+- 5.4 タプル [Q5_4_1.py](CHAOTER5/Q5_4_1.py), [Q5_4_2.py](CHAPTER5/Q5_4_2.py), [Q5_4_3.py](CHAPTER5/Q5_4_3.py), [Q5_4_4.py](CHAPTER5/Q5_4_4.py)
 
-- 5.5 集合（set）
+- 5.5 集合（set） [Q5_5_1.py](CHAPTER5/Q5_5_1.py), [Q5_5_2.py](CHAPTER5/Q5_5_2.py)
 
-- 5.6 集合を使った演算
+- 5.6 集合を使った演算 [Q5_6_1.py](CHAPTER5/Q5_6_1.py), [Q5_6_2.py](CHAPTER5/Q5_6_2.py)
 
-- 5.7 辞書（dict）
+- 5.7 辞書（dict）[Q5_7_1.py](CHAPTER5/Q5_7_1.py), [Q5_7_2.py](CHAPTER5/Q5_7_2.py)
 
-- 5.8 辞書を使ったプログラミング
+- 5.8 辞書を使ったプログラミング [Q5_8_1.py](CHAPTER5/Q5_8_1.py), [Q5_8_2.py](CHAPTER5/Q5_8_2.py)
 
-- 5.9 ループのテクニック
+- 5.9 ループのテクニック [Q5_9_1.py](CHAPTER5/Q5_9_1.py)
 
-- 5.10 比較
+- 5.10 比較 [Q5_10_1.py](CHAPTER5/Q5_10_1.py)
 ### CHAPTER6 クラス
 - 6.1 クラスの基本
 
