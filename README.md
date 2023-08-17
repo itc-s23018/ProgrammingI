@@ -96,15 +96,15 @@
 
 - 5.10 比較 [Q5_10_1.py](CHAPTER5/Q5_10_1.py)
 ### CHAPTER6 クラス
-- 6.1 クラスの基本 [Q6_1_1.py](CHAPTER6/Q6_1_1.py)
+- 6.1 クラスの基本 [Q6_1_1.py](CHAPTER6/Q6_1_1.py), [Q6_1_2.py](CHAPTER6/Q6_1_2.py)
 
 - 6.2 クラス変数とインスタンス変数 [Q6_2_1.py](CHAPTER6/Q6_2_1.py)
 
-- 6.3 継承 [Q6_3_1.py](CHAPTER6/Q6_3_1.py)
+- 6.3 継承 [Q6_3_1.py](CHAPTER6/Q6_3_1.py), [Q6_3_2.py](CHPATER6/Q6_3_2.py)
 
-- 6.4 反復子とジェネレータ [Q6_4_1.py](CHAPTER6/Q6_4_1.py)
+- 6.4 反復子とジェネレータ [Q6_4_1.py](CHAPTER6/Q6_4_1.py), [Q6_4_2.py](CHAPTER6/Q6_4_2.py)
 
-- 6.5 モジュールファイルを作る
+- 6.5 モジュールファイルを作る [Q6_5_1.py](CHAPTER6/Q6_5_1.py), [Q6_5_2.py](CHAPTER6/Q6_5_2.py)
 
 - 6.6 スコープと名前空間
 ### CHAPTER7 エラーと例外の処理
