@@ -137,6 +137,6 @@
 - 8.10 logging
 
 
-### Programming Training I
+# Programming Training I
 
 - 素数判定 [sosuu_hantei.py](sosuu_hantei.py)
