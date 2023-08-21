@@ -135,3 +135,8 @@
 - 8.9 decimal
 
 - 8.10 logging
+
+
+### Programming Training I
+
+- 素数判定 [sosu_hantei.py](sosu_hantei.py)
