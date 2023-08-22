@@ -106,15 +106,15 @@
 
 - 6.5 モジュールファイルを作る [Q6_5_1.py](CHAPTER6/Q6_5_1.py), [Q6_5_2.py](CHAPTER6/Q6_5_2.py)
 
-- 6.6 スコープと名前空間
+- 6.6 スコープと名前空間 [Q6_6_1.py](CHAPTER6/Q6_6_1.py)
 ### CHAPTER7 エラーと例外の処理
 - 7.1 エラーと例外の基本 [Q7_1_1.py](CHAPTER7/Q7_1_1.py), [Q7_1_2.py](CHAPTER7/Q7_1_2.py), [Q7_1_3.py](CHAPTER7/Q7_1_3.py), [Q7_1_4.py](CHAPTER7/Q7_1_4.py)
 
 - 7.2 例外の種類と対応方法 [Q7_2_1.py](CHAPTER7/Q7_2_1.py), [Q7_2_2.oy](CHAPTER7/Q7_2_2.py)
 
-- 7.3 ユーザ定義例外
+- 7.3 ユーザ定義例外 [Q7_3_1.py](CHAPTER7/Q7_3_1.py)
 
-- 7.4 クリーンアップ
+- 7.4 クリーンアップ [Q7_4_1.py](CHAPTER7/Q7_4_1.py)
 ### CHAPTER8 標準ライブラリ
 - 8.1 os
 
