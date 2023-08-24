@@ -9,6 +9,6 @@ def test_function():
     finally:
         print('finally')
 
-print(test_function())
+test_function()
 
 # 答えは①　
