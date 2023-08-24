@@ -114,7 +114,7 @@
 
 - 7.3 ユーザ定義例外 [Q7_3_1.py](CHAPTER7/Q7_3_1.py)
 
-- 7.4 クリーンアップ [Q7_4_1.py](CHAPTER7/Q7_4_1.py)
+- 7.4 クリーンアップ [Q7_4_1.py](CHAPTER7/Q7_4_1.py), [Q7_4_2.py](CHAPTER7/Q7_4_2.py)
 ### CHAPTER8 標準ライブラリ
 - 8.1 os
 
